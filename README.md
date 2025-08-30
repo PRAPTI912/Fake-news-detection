@@ -1,6 +1,3 @@
-Perfect idea ✅ A README.md makes your GitHub project professional and easy to understand.
-Here’s a clean, presentation-ready README for your Fake News Detection (NLP + Classification) project:
-
 📰 Fake News Detection using NLP & Machine Learning
 📌 Overview
 
